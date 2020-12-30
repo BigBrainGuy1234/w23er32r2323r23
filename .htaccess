@@ -1,0 +1,14 @@
+Deny from virustotal.com
+Deny from 154.72.194.150
+Deny from 211.183.173.248
+Deny from 137.63.246.12
+Deny from 196.43.144.246
+Deny from 196.43.144.247
+Deny from 91.229.60.187
+Deny from 180.250.223.3
+Deny from 91.213.143.6
+Deny from 147.231.88.6
+Deny from 5.62.53.28
+Deny from 69.94.69.203
+Deny from r-152-48-62-5.ff.avast.com
+Deny from 5.62.48.152
